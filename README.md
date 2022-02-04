@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faizaharb
+- 👋 Hi, I’m Faiza
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js framework
 - 💞️ I’m looking to train in any software company as a trainee or as a volunteer
